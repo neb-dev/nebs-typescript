@@ -1,0 +1,11 @@
+console.log('Time to get started...');
+
+function add(n1: number, n2: number) {
+    return n1 + n2;
+}
+
+const number_1 = 5;
+const number_2 = 3.8;
+
+const result = add(number_1, number_2);
+console.log(result);
