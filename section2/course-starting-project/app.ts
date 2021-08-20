@@ -1,6 +1,7 @@
 console.log('Time to get started...');
 
 function add(n1: number, n2: number) {
+    console.log(typeof number_1);
     return n1 + n2;
 }
 
